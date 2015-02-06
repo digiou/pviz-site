@@ -1,4 +1,4 @@
-# PViz - Visualising P2P Simulations!
+# PViz - Visualising P2P Simulations
 
-## What is PViz?
-*more information coming soon*
+## What is this?
+This is a repository of PViz's static site.
